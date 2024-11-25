@@ -1,0 +1,11 @@
+id,name,age,salary,department,region
+1,Alice,25,50000,HR,North
+2,Bob,30,60000,Finance,South
+3,Charlie,35,70000,IT,East
+4,David,40,80000,Marketing,West
+5,Eve,45,90000,HR,North
+6,Frank,50,100000,Finance,South
+7,Grace,55,110000,IT,East
+8,Hank,60,120000,Marketing,West
+9,Ivy,65,130000,HR,North
+10,Jack,70,140000,Finance,South
